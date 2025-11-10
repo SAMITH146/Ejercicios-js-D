@@ -1,8 +1,8 @@
 //Crea un programa que: muestre todos los números primos entre 1 y 50. Utiliza ciclos y
 //condicionales para verificar qué números cumplen la condición de ser primos.
 
-//
-i=2;
+//definimos variable para el número actual
+let i=2;
 //definimos variable para saber si es primo
 while(i<=50){
     //suponemos que es primo

@@ -4,8 +4,8 @@
 //multiplicar hasta el 12. El ciclo debe permitir repetir el proceso si el usuario desea
 //consultar otra tabla.
 
-
-continuar=true;
+//definimos variable para continuar consultando tablas
+let  continuar=true;
 while(continuar){
     //pedimos el número al usuario
     let numero=prompt("Ingrese un número para ver su tabla de multiplicar hasta el 12:");

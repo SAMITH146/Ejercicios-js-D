@@ -3,9 +3,9 @@
 // fueron pares y cuántos impares.
 
 //definimos variables para contar pares e impares
-i=1;
-pares=0;
-impares=0;
+let i=1;
+let pares=0;
+let impares=0;
 //iniciamos el ciclo para solicitar 10 números al usuario
 while (i <= 10) {
     //solicitamos al usuario que ingrese un número

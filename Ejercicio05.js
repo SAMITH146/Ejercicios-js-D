@@ -4,13 +4,13 @@
 // compra y aplicar un descuento del 10% si el valor supera los $100.000.
 
 //definimos variable para el total de la compra
-total=0;
+let total=0;
 //definimos variable para el descuento
-descuento=0;
+let descuento=0;
 //definimos variable para el total con descuento
-totalConDescuento=0;
+let totalConDescuento=0;
 //definimos variable para continuar registrando artículos
-continuar=true;
+Boolean =continuar=true;
 
 //mientras el usuario quiera registrar artículos
 while(continuar){
